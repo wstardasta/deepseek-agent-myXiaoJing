@@ -1,0 +1,13 @@
+{
+  "name": "local-qq-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local QQ agent bridged to NapCat via OneBot v11 reverse WebSocket",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
