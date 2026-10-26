@@ -1,0 +1,14 @@
+.env
+node_modules/
+*.log
+sessions.json
+state.json
+emotion.json
+memories.md
+memory.json
+daylog.json
+stickers.json
+group_recent.json
+group_members.json
+diary/
+webview2-data/
